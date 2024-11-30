@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Ipython
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Distribution / packaging
+.Python
+
+# Installer logs
+Pipfile
+
+# log
+*.log
+
+# text
+*.txt
+
+# csv
+# *.csv
+
+# parquet
+*.parquet
+
+# DS store
+**/.DS_Store
